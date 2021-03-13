@@ -1,0 +1,10 @@
+/Users/rebeccapatek/workspace/csharp/Intro/bin/Debug/netcoreapp3.1/Intro.deps.json
+/Users/rebeccapatek/workspace/csharp/Intro/bin/Debug/netcoreapp3.1/Intro.runtimeconfig.json
+/Users/rebeccapatek/workspace/csharp/Intro/bin/Debug/netcoreapp3.1/Intro.runtimeconfig.dev.json
+/Users/rebeccapatek/workspace/csharp/Intro/bin/Debug/netcoreapp3.1/Intro.dll
+/Users/rebeccapatek/workspace/csharp/Intro/bin/Debug/netcoreapp3.1/Intro.pdb
+/Users/rebeccapatek/workspace/csharp/Intro/obj/Debug/netcoreapp3.1/Intro.csprojAssemblyReference.cache
+/Users/rebeccapatek/workspace/csharp/Intro/obj/Debug/netcoreapp3.1/Intro.AssemblyInfoInputs.cache
+/Users/rebeccapatek/workspace/csharp/Intro/obj/Debug/netcoreapp3.1/Intro.AssemblyInfo.cs
+/Users/rebeccapatek/workspace/csharp/Intro/obj/Debug/netcoreapp3.1/Intro.dll
+/Users/rebeccapatek/workspace/csharp/Intro/obj/Debug/netcoreapp3.1/Intro.pdb
